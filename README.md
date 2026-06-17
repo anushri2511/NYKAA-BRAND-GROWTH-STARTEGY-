@@ -129,10 +129,7 @@ A monthly content schedule was developed to maintain consistency and audience en
 ---
 
 ## 📊 Power BI Dashboard
-<p align="center">
-  <img src="[https://github.com/anushri2511/NYKAA-BRAND-GROWTH-STARTEGY-/blob/main/Dashboard%20Screenshot.png]
-    " width="1000">
-</p>
+<img width="1920" height="1020" alt="NYKAA GROWTH REPORT DASHBOARD" src="https://github.com/anushri2511/NYKAA-BRAND-GROWTH-STARTEGY-/blob/main/Dashboard%20Screenshot.png" />
 
 
 The dashboard was built to monitor performance and evaluate the effectiveness of the strategy. :contentReference[oaicite:8]{index=8}
@@ -173,6 +170,9 @@ The dashboard was built to monitor performance and evaluate the effectiveness of
 ### Analytics
 - 📊 Power BI
 - 📑 Microsoft Excel
+- 📑 Microsoft Word
+- 📑 Microsoft Power Point
+
 
 ---
 
@@ -181,8 +181,8 @@ The dashboard was built to monitor performance and evaluate the effectiveness of
 ```bash
 📦 Nykaa-Instagram-Growth-Strategy
 │
-├── 📄 Brand_Growth_Strategy_Project_Nykaa.pdf
-├── 📊 Nykaa_Report.pbix
+├── 📄 Nykaa Brand Growth Report
+├── 📊 Nykaa Growth Report Dashboard
 ├── 🖼️ Dashboard Screenshot
 ├── 📈 KPI Analysis
 └── 📜 README.md
@@ -206,7 +206,7 @@ Implementation of this strategy is expected to deliver:
 
 ✅ Achievement of the 20% Growth Target
 
-:contentReference[oaicite:9]{index=9}
+
 
 ---
 
@@ -228,7 +228,7 @@ Implementation of this strategy is expected to deliver:
 
 **Anushri Singh**
 
-🎓 B.Com (Hons.) | Marketing & Business Analytics Enthusiast
+🎓 B.Tech | Marketing & Business Analytics Enthusiast
 
 📊 Power BI • Marketing Strategy • Data Analysis • Brand Growth
 
